@@ -1,0 +1,22 @@
+In the project, we're going to find insights behind the data in order to target 
+the prospective buyers; Additionally, throught analytical reports, we also need
+to provide a reliable marketing strategy.
+
+Now, we've known the business goals; subsequently, we're going to follow the data
+mining strategy step by step to create the anaytical reports.
+
+1. Understanding business goals ✓
+2. Data identification
+3. Data cleaning
+4. Data exploration
+5. Data presentation
+
+In the projects, the file be given have been reliabal and don't have any missing 
+data; thus, the 2nd and 3rd step can be skipped.
+
+In data exploration, we need to list a number of sub-targets in order to approch
+our targets.
+
+1. List the data types, the size of data, and these data's meaning
+2. Find the numeric data's maximum and minimum, and find the non-primitive data's
+   unique value.
