@@ -33,7 +33,7 @@ mining strategy step by step to create the anaytical reports.
          more likely buy treadmills than married customers?
 
 
-5. Finally, the useful information needs to be visualized based on their
+5. Subsequently, the useful information needs to be visualized based on their
    attribution.
    5-1.  List a table including descriptive statistical information.
    5-2.  Show the the proportion of each models, gender, and marital status with
@@ -42,4 +42,10 @@ mining strategy step by step to create the anaytical reports.
    5-4.  Show the relationship between each data via scatter plots.
    5-5.  Gernerate a heat map of correlation.
    5-6.  Show the disribution of numeric data with bar charts.
+   5-7.  Create bos plots to show the distribution of age, incomes, mills, 
+         education, and usage.
+
+
+★  Finally, after observing the information, we should explain the meaning of these
+   diagrams and provide a marketing strategy.
    
