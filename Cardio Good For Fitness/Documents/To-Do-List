@@ -1,0 +1,51 @@
+In the project, we're going to find insights behind the data in order to target 
+the prospective buyers; Additionally, throught analytical reports, we also need
+to provide a reliable marketing strategy.
+
+Now, we've known the business goals; subsequently, we're going to follow the data
+mining strategy step by step to create the anaytical reports.
+
+1. Understanding business goals ✓
+2. Data identification
+3. Data cleaning
+4. Data exploration
+5. Data presentation
+★ Generate an analytical reports including marketing strategies.
+
+
+2. In this step, we're going to check the data's volume, variety, and varacity.
+   2-1.  List the data types, the size of data, and these data's meaning.
+   2-2.  Check whether there are duplicated data or missing data.
+
+
+3. After checking the data, we should remove bad data, organize the raw data,
+   and fill in the null values.
+
+
+4. In data exploration, we're going extract the insights from raw data.
+   4-1.  Find the unique values in non-primitive data.
+   4-2.  Generate descriptive statistics including maximum, minimum, mean of
+         values, and standard deviation.
+   4-3.  Find the proportion of each models - find the most popular model
+   4-4.  Find the percentage of both male and female customers - do men more
+         likely buy treadmills than women?
+   4-5.  Find the proportion of defferent marital status - do single customers
+         more likely buy treadmills than married customers?
+
+
+5. Subsequently, the useful information needs to be visualized based on their
+   attribution.
+   5-1.  List a table including descriptive statistical information.
+   5-2.  Show the the proportion of each models, gender, and marital status with
+         pie charts.
+   5-3.  Create population pyramids by models.
+   5-4.  Show the relationship between each data via scatter plots.
+   5-5.  Gernerate a heat map of correlation.
+   5-6.  Show the disribution of numeric data with bar charts.
+   5-7.  Create bos plots to show the distribution of age, incomes, mills, 
+         education, and usage.
+
+
+★  Finally, after observing the information, we should explain the meaning of these
+   diagrams and provide a marketing strategy.
+   
